@@ -1,0 +1,3 @@
+﻿  P455_tic_tac_toe.c
+C:\Users\이지우\OneDrive\바탕 화면\C언어Express\Chapter10\P455_tic_tac_toe.c(10,18): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+  Chapter10.vcxproj -> C:\Users\이지우\OneDrive\바탕 화면\C언어Express\Chapter10\x64\Debug\Chapter10.exe
